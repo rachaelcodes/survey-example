@@ -24,12 +24,12 @@ This is a Django app with a SQLite database.
 
 ### Running the app
 
-- Run the app locally `docker-compose up --build --force-recreate web`
+- Run the app locally `docker compose up --build --force-recreate web`
 - Go to `http://localhost:8000` in a browser to try the app
 
 ### Other useful commands
 
-- Run tests `docker-compose up --build --force-recreate tests`
+- Run tests `docker compose up --build --force-recreate tests`
 
 ## How to run without Docker
 
